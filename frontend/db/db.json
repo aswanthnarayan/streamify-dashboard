@@ -1,0 +1,305 @@
+{
+    "users": [
+      {
+        "id": "USER123",
+        "name": "John Smith",
+        "email": "john.smith@email.com",
+        "subscriptionType": "premium",
+        "joinDate": "2024-05-15T08:30:00Z",
+        "lastStreamDate": "2025-02-06T04:30:00Z",
+        "totalStreams": 250
+      },
+      {
+        "id": "USER456",
+        "name": "Emma Wilson",
+        "email": "emma.wilson@email.com",
+        "subscriptionType": "free",
+        "joinDate": "2024-08-20T14:15:00Z",
+        "lastStreamDate": "2025-01-15T09:20:00Z",
+        "totalStreams": 120
+      },
+      {
+        "id": "USER789",
+        "name": "Michael Chen",
+        "email": "michael.chen@email.com",
+        "subscriptionType": "premium",
+        "joinDate": "2024-03-10T11:45:00Z",
+        "lastStreamDate": "2025-02-06T03:15:00Z",
+        "totalStreams": 180
+      },
+      {
+        "id": "USER101",
+        "name": "Sarah Johnson",
+        "email": "sarah.j@email.com",
+        "subscriptionType": "premium",
+        "joinDate": "2024-06-05T16:20:00Z",
+        "lastStreamDate": "2024-12-28T10:45:00Z",
+        "totalStreams": 90
+      },
+      {
+        "id": "USER202",
+        "name": "David Brown",
+        "email": "david.brown@email.com",
+        "subscriptionType": "free",
+        "joinDate": "2024-09-30T13:10:00Z",
+        "lastStreamDate": "2025-02-05T19:30:00Z",
+        "totalStreams": 150
+      }
+    ],
+    "monthlyUserGrowth": [
+      {
+        "month": "2024-03",
+        "totalUsers": 80000,
+        "activeUsers": 45000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2024-04",
+        "totalUsers": 90000,
+        "activeUsers": 52000,
+        "newUsers": 10000
+      },
+      {
+        "month": "2024-05",
+        "totalUsers": 100000,
+        "activeUsers": 58000,
+        "newUsers": 10000
+      },
+      {
+        "month": "2024-06",
+        "totalUsers": 110000,
+        "activeUsers": 65000,
+        "newUsers": 10000
+      },
+      {
+        "month": "2024-07",
+        "totalUsers": 120000,
+        "activeUsers": 72000,
+        "newUsers": 10000
+      },
+      {
+        "month": "2024-08",
+        "totalUsers": 125000,
+        "activeUsers": 78000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2024-09",
+        "totalUsers": 130000,
+        "activeUsers": 82000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2024-10",
+        "totalUsers": 135000,
+        "activeUsers": 85000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2024-11",
+        "totalUsers": 140000,
+        "activeUsers": 88000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2024-12",
+        "totalUsers": 145000,
+        "activeUsers": 90000,
+        "newUsers": 5000
+      },
+      {
+        "month": "2025-01",
+        "totalUsers": 148000,
+        "activeUsers": 92000,
+        "newUsers": 3000
+      },
+      {
+        "month": "2025-02",
+        "totalUsers": 150000,
+        "activeUsers": 95000,
+        "newUsers": 2000
+      }
+    ],
+    "revenue": {
+      "monthly": [
+        {
+          "month": "2025-01",
+          "subscriptions": 450000,
+          "advertisements": 120000,
+          "inAppPurchases": 65000,
+          "merchandise": 20000
+        },
+        {
+          "month": "2025-02",
+          "subscriptions": 500000,
+          "advertisements": 150000,
+          "inAppPurchases": 75000,
+          "merchandise": 25000
+        }
+      ],
+      "currentDistribution": {
+        "subscriptions": 500000,
+        "advertisements": 150000,
+        "inAppPurchases": 75000,
+        "merchandise": 25000
+      }
+    },
+    "songs": {
+      "topStreamed": [
+        {
+          "id": 1,
+          "name": "Cruel Summer",
+          "artist": "Taylor Swift",
+          "streams": {
+            "total": 150000,
+            "last30Days": 50000
+          }
+        },
+        {
+          "id": 2,
+          "name": "Vampire",
+          "artist": "Olivia Rodrigo",
+          "streams": {
+            "total": 120000,
+            "last30Days": 45000
+          }
+        },
+        {
+          "id": 3,
+          "name": "Last Night",
+          "artist": "Morgan Wallen",
+          "streams": {
+            "total": 100000,
+            "last30Days": 40000
+          }
+        },
+        {
+          "id": 4,
+          "name": "Kill Bill",
+          "artist": "SZA",
+          "streams": {
+            "total": 95000,
+            "last30Days": 35000
+          }
+        },
+        {
+          "id": 5,
+          "name": "Anti-Hero",
+          "artist": "Taylor Swift",
+          "streams": {
+            "total": 90000,
+            "last30Days": 30000
+          }
+        },
+        {
+          "id": 6,
+          "name": "Flowers",
+          "artist": "Miley Cyrus",
+          "streams": {
+            "total": 88000,
+            "last30Days": 28000
+          }
+        },
+        {
+          "id": 7,
+          "name": "Rich Flex",
+          "artist": "Drake & 21 Savage",
+          "streams": {
+            "total": 85000,
+            "last30Days": 25000
+          }
+        },
+        {
+          "id": 8,
+          "name": "Unholy",
+          "artist": "Sam Smith & Kim Petras",
+          "streams": {
+            "total": 82000,
+            "last30Days": 22000
+          }
+        },
+        {
+          "id": 9,
+          "name": "About Damn Time",
+          "artist": "Lizzo",
+          "streams": {
+            "total": 78000,
+            "last30Days": 20000
+          }
+        },
+        {
+          "id": 10,
+          "name": "As It Was",
+          "artist": "Harry Styles",
+          "streams": {
+            "total": 75000,
+            "last30Days": 18000
+          }
+        },
+        {
+          "id": 11,
+          "name": "Bad Habit",
+          "artist": "Steve Lacy",
+          "streams": {
+            "total": 72000,
+            "last30Days": 15000
+          }
+        },
+        {
+          "id": 12,
+          "name": "Shivers",
+          "artist": "Ed Sheeran",
+          "streams": {
+            "total": 70000,
+            "last30Days": 12000
+          }
+        }
+      ],
+      "artistStats": {
+        "Taylor Swift": {
+          "totalStreams": 240000,
+          "last30DaysStreams": 80000
+        },
+        "Olivia Rodrigo": {
+          "totalStreams": 120000,
+          "last30DaysStreams": 45000
+        },
+        "Morgan Wallen": {
+          "totalStreams": 100000,
+          "last30DaysStreams": 40000
+        },
+        "SZA": {
+          "totalStreams": 95000,
+          "last30DaysStreams": 35000
+        },
+        "Miley Cyrus": {
+          "totalStreams": 88000,
+          "last30DaysStreams": 28000
+        },
+        "Drake & 21 Savage": {
+          "totalStreams": 85000,
+          "last30DaysStreams": 25000
+        },
+        "Sam Smith & Kim Petras": {
+          "totalStreams": 82000,
+          "last30DaysStreams": 22000
+        },
+        "Lizzo": {
+          "totalStreams": 78000,
+          "last30DaysStreams": 20000
+        },
+        "Harry Styles": {
+          "totalStreams": 75000,
+          "last30DaysStreams": 18000
+        },
+        "Steve Lacy": {
+          "totalStreams": 72000,
+          "last30DaysStreams": 15000
+        },
+        "Ed Sheeran": {
+          "totalStreams": 70000,
+          "last30DaysStreams": 12000
+        }
+      }
+    }
+  }
