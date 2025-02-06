@@ -19,7 +19,7 @@ When developing this application, I aimed to create a user-friendly interface th
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:aswanthnarayan/streamify-dashboard.git
    cd streamify-dashboard
    cd frontend
    npm install
